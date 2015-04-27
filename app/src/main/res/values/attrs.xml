@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShadowableFrameLayout">
+        <attr name="shadow">
+            <flag name="non" value="0" />
+            <flag name="top" value="1" />
+            <flag name="bottom" value="2" />
+            <flag name="both" value="4" />
+        </attr>
+    </declare-styleable>
+</resources>
